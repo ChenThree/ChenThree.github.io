@@ -9,9 +9,13 @@ redirect_from:
 
 I am a third-year PhD student at Visual Computing Laboratory, Department of Electronic Engineering, Tsinghua University, supervised by Prof. Guijin Wang. Previously I received my bachelor’s degree at Department of Electronic Engineering, Tsinghua University in July, 2021.
 
-My current research focus is on robot manipulation, embodied AI and applications of 3D scene understanding.
+My research focus is on robot manipulation, embodied AI and applications of 3D scene understanding. Currently, I'm working on building a more unified representation for manipulation with a more efficient general algorithm, especially for more difficult scenes.
 
 # News
+
+- 2024.02.03: Our paper "Region-aware Framework with Normalized Grasp Space for 6-DoF Grasping in Cluttered Scene" has been submitted to ***Robotics: Science and Systems 2024***
+
+- 2024.02.02: Our paper "Rethinking 6-Dof Grasp Detection: A Flexible Framework for High-Quality Grasping" is being revised for ***IEEE Robotics and Automation Letters***
 
 - 2023.10.25: Our paper "Query-guided Support Prototypes for Few-shot 3D Indoor Segmentation" is accepted for publication in ***IEEE Transactions on Circuits and Systems for Video Technology***. [[Link]](https://ieeexplore.ieee.org/abstract/document/10295521/)
 - 2023.09.07: Our paper "Part-Guided 3D RL for Sim2Real Articulated Object Manipulation" is accepted for publication in ***IEEE Robotics and Automation Letters***. [[Link]](https://ieeexplore.ieee.org/abstract/document/10242361/)
