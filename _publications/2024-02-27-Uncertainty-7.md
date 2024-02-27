@@ -2,7 +2,7 @@
 title: "Uncertainty-Aware Laser Stripe Segmentation with Non-Local Mechanisms for Welding Robots"
 collection: publications
 permalink: /publication/2024-02-27-Uncertainty-7
-excerpt: 'The line-structured-light system has been widely applied in intelligent welding robots for weld seam reconstruction and tracking. However, it's challenging to extract the projected laser stripes from captured images due to the strong noise and high dynamic range in welding environments. ...'
+excerpt: "The line-structured-light system has been widely applied in intelligent welding robots for weld seam reconstruction and tracking. However, it's challenging to extract the projected laser stripes from captured images due to the strong noise and high dynamic range in welding environments. ..."
 date: 2024-02-27
 venue: under review
 # paperurl: 

@@ -51,10 +51,10 @@ InternShip
 
 Awards
 ======
-Second-class Postgraduate Scholarship of Tsinghua University, 2023
-Excellent Thesis of Tsinghua University, 2021 (B.S.)
-Tsinghua University Scholarship, 2019
-Meng Zhaoying Scholarship of Tsinghua University, 2018
+* Second-class Postgraduate Scholarship of Tsinghua University, 2023
+* Excellent Thesis of Tsinghua University, 2021 (B.S.)
+* Tsinghua University Scholarship, 2019
+* Meng Zhaoying Scholarship of Tsinghua University, 2018
 
 Scholarly Reviews
 ======
