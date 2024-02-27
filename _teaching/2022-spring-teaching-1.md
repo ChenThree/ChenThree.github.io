@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant in undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "Department of Electronic Engineering, Tsinghua University"
-date: 2022-02-01
+date: 2022-03-01
 location: "Beijing, China"
 ---
 
