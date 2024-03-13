@@ -13,7 +13,8 @@ My research focus is on robot manipulation, embodied AI and applications of 3D s
 
 # News
 
-- 2024.02.27: Our paper "Uncertainty-Aware Laser Stripe Segmentation with Non-Local Mechanisms for Welding Robots" has been submitted to ***IEEE Transactions on Instrumentation and Measurement***
+- 2024.03.14: Our paper "Uncertainty-Aware Laser Stripe Segmentation with Non-Local Mechanisms for Welding Robots" has been submitted to ***IEEE Transactions on Instrumentation and Measurement***
+- 2024.02.07: Our paper "Category-Agnostic Pose Estimation for Point Clouds" has been submitted to ***IEEE International Conference on Image Processing 2024***
 - 2024.02.03: Our paper "Region-aware Framework with Normalized Grasp Space for 6-DoF Grasping in Cluttered Scene" has been submitted to ***Robotics: Science and Systems 2024***
 - 2024.02.02: Our paper "Rethinking 6-Dof Grasp Detection: A Flexible Framework for High-Quality Grasping" is being revised for ***IEEE Robotics and Automation Letters***
 - 2023.10.25: Our paper "Query-guided Support Prototypes for Few-shot 3D Indoor Segmentation" is accepted for publication in ***IEEE Transactions on Circuits and Systems for Video Technology***. [[Link]](https://ieeexplore.ieee.org/abstract/document/10295521/)
