@@ -14,7 +14,7 @@ My research focus is on robot manipulation, embodied AI and applications of 3D s
 # News
 
 - 2024.03.27: Our paper "Region-Centric 6-Dof Grasp Detection: A Data-Efficient Solution for Cluttered Scenes" is submitted to ***IEEE Robotics and Automation Letters***
-- 2024.03.22: Our paper "Rethinking 6-Dof Grasp Detection: A Flexible Framework for High-Quality Grasping" is release in ***arXiv preprint***
+- 2024.03.22: Our paper "Rethinking 6-Dof Grasp Detection: A Flexible Framework for High-Quality Grasping" is released in ***arXiv preprint***
 - 2024.03.14: Our paper "Uncertainty-Aware Laser Stripe Segmentation with Non-Local Mechanisms for Welding Robots" has been submitted to ***IEEE Transactions on Instrumentation and Measurement***
 - 2024.02.07: Our paper "Category-Agnostic Pose Estimation for Point Clouds" has been submitted to ***IEEE International Conference on Image Processing 2024***
 - 2024.02.03: Our paper "Region-aware Framework with Normalized Grasp Space for 6-DoF Grasping in Cluttered Scene" has been submitted to ***Robotics: Science and Systems 2024***
