@@ -1,14 +1,14 @@
 ---
 title: "Rethinking 6-Dof Grasp Detection: A Flexible Framework for High-Quality Grasping"
 collection: publications
-permalink: /publication/2024-02-02-Rethinking-5
+permalink: /publication/2024-03-22-Rethinking-5
 excerpt: 'Robotic grasping is a primitive skill for complex tasks and is fundamental to intelligence. For general 6-Dof grasping, most previous methods directly extract scene-level semantic or geometric information, while few of them consider the suitability for various downstream applications, such as target-oriented grasping.  ...'
-date: 2024-02-02
-venue: being revised
-# paperurl: 
-# paperurltext: '[pdf]'
+date: 2024-03-22
+venue: arXiv preprint
+paperurl: https://arxiv.org/pdf/2403.15054
+paperurltext: '[pdf]'
 # paperbibtex: 
-citation: 'Wei Tang, Siang Chen, Pengwei Xie, Dingchang Hu, Wenming Yang, Guijin Wang'
+citation: 'Wei Tang, Siang Chen, Pengwei Xie, Dingchang Hu, Wenming Yang, Guijin Wang. (2024). Rethinking 6-Dof Grasp Detection: A Flexible Framework for High-Quality Grasping. arXiv preprint arXiv:2403.15054.'
 ---
 ## Abstract
 

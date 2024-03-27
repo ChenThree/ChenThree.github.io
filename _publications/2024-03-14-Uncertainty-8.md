@@ -8,7 +8,7 @@ venue: under review
 # paperurl: 
 # paperurltext: '[pdf]'
 # paperbibtex: 
-citation: 'Yixiang Dai, Siang Chen, Tianyu Sun, Zimo Fan, Chun Zhang, Xiaobing Feng, Guijin Wang'
+citation: 'Yixiang Dai, Siang Chen, Tianyu Sun, Zimo Fan, Chun Zhang, Xiaobing Feng, Guijin Wang. (2024). Uncertainty-Aware Laser Stripe Segmentation with Non-Local Mechanisms for Welding Robots.'
 ---
 ## Abstract
 
