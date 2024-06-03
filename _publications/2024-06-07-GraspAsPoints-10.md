@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-06-07-GraspAsPoints
 excerpt: "Dynamic grasping of moving objects in complex, continuous motion scenarios with limited observation remains a challenging task. In this letter, we propose a reinforcement learning framework for effective and robust dynamic object grasping. ..."
 date: 2024-03-27
-venue: under revision
+venue: under review
 # paperurl: 
 # paperurltext: '[pdf]'
 # paperbibtex: 
