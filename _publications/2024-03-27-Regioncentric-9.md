@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-03-27-Regioncentric-9
 excerpt: "Robotic grasping, serving as the cornerstone for complex manipulation tasks, is fundamental for embodied intelligence. For general 6-Dof grasping, most data-driven methods directly extract scene-level information, resorting to fitting with a large amount of data. ..."
 date: 2024-03-27
-venue: under review
+venue: under revision
 # paperurl: 
 # paperurltext: '[pdf]'
 # paperbibtex: 
