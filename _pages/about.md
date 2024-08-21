@@ -11,7 +11,7 @@ I am a third-year PhD student at Visual Computing Laboratory, Department of Elec
 
 My research focus is on robot manipulation, embodied AI and applications of 3D scene understanding. Currently, I'm working on building a more unified representation for manipulation with a more efficient general algorithm, especially for more difficult scenes.
 
-# Newly Publications
+# Recent Publications
 
 - 2024.08.15: Our paper "Target-Oriented Object Grasping via Multimodal Human Guidance" has been accepted by ***ECCV 2024 Workshop on Assistive Computer Vision and Robotic (ACVR 2024)***.
 - 2024.06.07: Our paper "Category-Agnostic Pose Estimation for Point Clouds" has been accepted by ***IEEE International Conference on Image Processing 2024 (ICIP 2024)***. [[Link]](https://arxiv.org/abs/2403.07437)
