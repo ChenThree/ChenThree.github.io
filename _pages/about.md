@@ -11,18 +11,23 @@ I am a third-year PhD student at Visual Computing Laboratory, Department of Elec
 
 My research focus is on robot manipulation, embodied AI and applications of 3D scene understanding. Currently, I'm working on building a more unified representation for manipulation with a more efficient general algorithm, especially for more difficult scenes.
 
-# News
+# Newly Publications
 
-- 2024.06.15: Our paper "Grasp as Points: A Novel Grasp Representation Guided RL Policy for Dynamic Object Grasping" has been submitted to ***IEEE Robotics and Automation Letters***.
-- 2024.06.07: Our paper "Category-Agnostic Pose Estimation for Point Clouds" has been accepted to ***IEEE International Conference on Image Processing 2024***.
+- 2024.08.15: Our paper "Target-Oriented Object Grasping via Multimodal Human Guidance" has been accepted by ***ECCV 2024 Workshop on Assistive Computer Vision and Robotic (ACVR 2024)***.
+- 2024.06.07: Our paper "Category-Agnostic Pose Estimation for Point Clouds" has been accepted by ***IEEE International Conference on Image Processing 2024 (ICIP 2024)***. [[Link]](https://arxiv.org/abs/2403.07437)
 - 2024.06.06: Our paper "Region-aware Grasp Framework with Normalized Grasp Space for 6-DoF Grasping in Cluttered Scene" is released in ***arXiv preprint***. [[Link]](https://arxiv.org/abs/2406.01767)
-- 2024.06.03: Our paper "Region-Centric 6-Dof Grasp Detection: A Data-Efficient Solution for Cluttered Scenes" is under revision to ***IEEE Robotics and Automation Letters***.
 - 2024.03.22: Our paper "Rethinking 6-Dof Grasp Detection: A Flexible Framework for High-Quality Grasping" is released in ***arXiv preprint***. [[Link]](https://arxiv.org/abs/2403.15054)
-- 2024.03.14: Our paper "Uncertainty-Aware Laser Stripe Segmentation with Non-Local Mechanisms for Welding Robots" has been submitted to ***IEEE Transactions on Instrumentation and Measurement***.
 - 2023.10.25: Our paper "Query-guided Support Prototypes for Few-shot 3D Indoor Segmentation" is accepted for publication in ***IEEE Transactions on Circuits and Systems for Video Technology***. [[Link]](https://ieeexplore.ieee.org/abstract/document/10295521/)
 - 2023.09.07: Our paper "Part-Guided 3D RL for Sim2Real Articulated Object Manipulation" is accepted for publication in ***IEEE Robotics and Automation Letters***. [[Link]](https://ieeexplore.ieee.org/abstract/document/10242361/)
 - 2023.06.30: Our paper "Efficient heatmap-guided 6-DoF grasp detection in cluttered scenes" is accepted for publication in ***IEEE Robotics and Automation Letters***. [[Link]](https://ieeexplore.ieee.org/abstract/document/10168242/)
 <!-- - 2022.12.13: Our paper "Distribution-aware Low-bit Quantization for 3D Point Cloud Networks" is accepted for publication in ***VCIP 2022***. [[Link]](https://ieeexplore.ieee.org/abstract/document/10008887) -->
+
+# News of Works in Progress 
+
+- 2024.08.20: Our paper "Grasp as Points: A Novel Grasp Representation Guided RL Policy for Dynamic Object Grasping" is under revision for ***IEEE Robotics and Automation Letters***.
+- 2024.08.15: Our paper "Region-Centric 6-Dof Grasp Detection: A Data-Efficient Solution for Cluttered Scenes" is under revision for ***IEEE Robotics and Automation Letters***.
+- 2024.08.06: Our paper "Variation-robust Few-shot 3D Affordance Segmentation for Robotic Manipulation" has been submitted to ***IEEE Robotics and Automation Letters***.
+- 2024.08.01: Our paper "Uncertainty-Aware Laser Stripe Segmentation with Non-Local Mechanisms for Welding Robots" is under revision for ***IEEE Transactions on Instrumentation and Measurement***.
 
 # Selected Research
 
