@@ -13,7 +13,7 @@ My research focus is on robot manipulation, embodied AI and applications of 3D s
 
 # Recent Publications
 
-- 2024.08.15: Our paper "Target-Oriented Object Grasping via Multimodal Human Guidance" has been accepted by ***ECCV 2024 Workshop on Assistive Computer Vision and Robotic (ACVR 2024)***.
+- 2024.08.15: Our paper "Target-Oriented Object Grasping via Multimodal Human Guidance" has been accepted by ***ECCV 2024 Workshop on Assistive Computer Vision and Robotic (ACVR 2024)***. [[Link]](https://arxiv.org/abs/2408.11138)
 - 2024.06.07: Our paper "Category-Agnostic Pose Estimation for Point Clouds" has been accepted by ***IEEE International Conference on Image Processing 2024 (ICIP 2024)***. [[Link]](https://arxiv.org/abs/2403.07437)
 - 2024.06.06: Our paper "Region-aware Grasp Framework with Normalized Grasp Space for 6-DoF Grasping in Cluttered Scene" is released in ***arXiv preprint***. [[Link]](https://arxiv.org/abs/2406.01767)
 - 2024.03.22: Our paper "Rethinking 6-Dof Grasp Detection: A Flexible Framework for High-Quality Grasping" is released in ***arXiv preprint***. [[Link]](https://arxiv.org/abs/2403.15054)
@@ -34,5 +34,6 @@ My research focus is on robot manipulation, embodied AI and applications of 3D s
 - **Chen, S.**, Tang, W., Xie, P., Yang, W., & Wang, G. (2023). Efficient heatmap-guided 6-DoF grasp detection in cluttered scenes. ***IEEE Robotics and Automation Letters***. [[Link]](https://ieeexplore.ieee.org/abstract/document/10168242/) [[Github]](https://github.com/THU-VCLab/HGGD) [[Video]](https://www.youtube.com/watch?v=V8gG1eHbrsU)
 - **Chen, S.**, Xie, P., Tang, W., Hu, D., & Wang, G. (2024). Region-aware Grasp Framework with Normalized Grasp Space for 6-DoF Grasping in Cluttered Scene. ***arXiv preprint***. [[Link]](https://arxiv.org/abs/2406.01767)
 - Xie, P., Chen, R., **Chen, S. (co-first author)**, Qin, Y., Xiang, F., Sun, T., ... & Su, H. (2023). Part-Guided 3D RL for Sim2Real Articulated Object Manipulation. ***IEEE Robotics and Automation Letters***. [[Link]](https://ieeexplore.ieee.org/abstract/document/10242361/) [[Github]](https://github.com/THU-VCLab/Part-Guided-3D-RL-for-Sim2Real-Articulated-Object-Manipulation) [[Video]](https://www.youtube.com/watch?v=b8KvOjlGNJs)
+- Xie, P., **Chen, S. (co-first author)**, Hu, D., Dai, Y., Yang, K., & Wang, G. (2024). "Target-Oriented Object Grasping via Multimodal Human Guidance". ***ECCV 2024 Workshop on Assistive Computer Vision and Robotic (ACVR 2024)***. [[Link]](https://arxiv.org/abs/2408.11138)
 - Tang, W., **Chen, S. (co-first author)**, Xie, P., Hu, D., Yang, W., & Wang, G. (2024). Rethinking 6-Dof Grasp Detection: A Flexible Framework for High-Quality Grasping. ***arXiv preprint***. [[Link]](https://arxiv.org/abs/2403.15054)
 - Hu, D., **Chen, S.**, Yang, H., & Wang, G. (2023). Query-guided Support Prototypes for Few-shot 3D Indoor Segmentation. ***IEEE Transactions on Circuits and Systems for Video Technology***. [[Link]](https://ieeexplore.ieee.org/abstract/document/10295521)
