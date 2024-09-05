@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at Visual Computing Laboratory, Department of Electronic Engineering, Tsinghua University, supervised by Prof. Guijin Wang. Previously I received my bachelor’s degree at Department of Electronic Engineering, Tsinghua University in July, 2021.
+I am a forth-year PhD student at Visual Computing Laboratory, Department of Electronic Engineering, Tsinghua University, supervised by Prof. Guijin Wang. Previously I received my bachelor’s degree at Department of Electronic Engineering, Tsinghua University in July, 2021.
 
 My research focus is on robot manipulation, embodied AI and applications of 3D scene understanding. Currently, I'm working on building a more unified representation for manipulation with a more efficient general algorithm, especially for more difficult scenes.
 
