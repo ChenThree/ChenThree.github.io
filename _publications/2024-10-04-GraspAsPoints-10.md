@@ -5,9 +5,8 @@ permalink: /publication/2024-10-04-GraspAsPoints
 excerpt: "Dynamic grasping of moving objects in complex, continuous motion scenarios remains challenging. Reinforcement Learning (RL) has been applied in various robotic manipulation tasks, benefiting from its closed-loop property. ..."
 date: 2024-10-04
 venue: 'IEEE Robotics and Automation Letters'
-# paperurl: 
-# paperurltext: '[pdf]'
-# paperbibtex: 
+paperurl: http://arxiv.org/pdf/2410.03509
+paperurltext: '[pdf]'
 citation: 'Pengwei Xie, Siang Chen, Qianrun Chen, Wei Tang, Dingchang Hu, Yixiang Dai, Rui Chen, Guijin Wang. (2024). GAP-RL: Grasps As Points for RL Towards Dynamic Object Grasping.'
 ---
 ## Abstract
