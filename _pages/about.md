@@ -13,7 +13,7 @@ My research focus is on robot manipulation, embodied AI and applications of 3D s
 
 # Recent Publications
 
-- 2024.10.04: Our paper "GAP-RL: Grasps As Points for RL Towards Dynamic Object Grasping" has been accepted by ***IEEE Robotics and Automation Letters***.
+- 2024.10.04: Our paper "GAP-RL: Grasps As Points for RL Towards Dynamic Object Grasping" has been accepted by ***IEEE Robotics and Automation Letters***. [[Link]](http://arxiv.org/abs/2410.03509)
 - 2024.09.05: Our paper "Region-aware Grasp Framework with Normalized Grasp Space for Efficient 6-DoF Grasping" has been accepted by ***8th Annual Conference on Robot Learning (CoRL 2024)***. [[Link]](https://arxiv.org/abs/2406.01767)
 - 2024.08.15: Our paper "Target-Oriented Object Grasping via Multimodal Human Guidance" has been accepted by ***ECCV 2024 Workshop on Assistive Computer Vision and Robotic (ACVR 2024)***. [[Link]](https://arxiv.org/abs/2408.11138)
 - 2024.06.07: Our paper "Category-Agnostic Pose Estimation for Point Clouds" has been accepted by ***IEEE International Conference on Image Processing 2024 (ICIP 2024)***. [[Link]](https://arxiv.org/abs/2403.07437)
