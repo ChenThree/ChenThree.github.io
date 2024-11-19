@@ -8,7 +8,7 @@ venue: arXiv preprint
 paperurl: https://arxiv.org/pdf/2403.15054
 paperurltext: '[pdf]'
 # paperbibtex: 
-citation: 'Wei Tang, Siang Chen, Pengwei Xie, Dingchang Hu, Wenming Yang, Guijin Wang. (2024). Rethinking 6-Dof Grasp Detection: A Flexible Framework for High-Quality Grasping. arXiv preprint arXiv:2403.15054.'
+citation: 'Pengwei Xie, Siang Chen, Wei Tang, Dingchang Hu, Wenming Yang, Guijin Wang. (2024). Rethinking 6-Dof Grasp Detection: A Flexible Framework for High-Quality Grasping. arXiv preprint arXiv:2403.15054.'
 ---
 ## Abstract
 
