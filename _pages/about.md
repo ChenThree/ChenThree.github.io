@@ -44,3 +44,8 @@ My research focus is on robot manipulation, embodied AI and applications of 3D s
 - Xie, P., **Chen, S. (project leader)**, Hu, D., Dai, Y., Yang, K., & Wang, G. (2024). "Target-Oriented Object Grasping via Multimodal Human Guidance". ***ECCV 2024 Workshop on Assistive Computer Vision and Robotic (ACVR 2024)***. [[Link]](https://arxiv.org/abs/2408.11138)
 - Dai, Y., **Chen, S. (project leader)**, Sun, T., Fan, Z., Zhang, C., Feng, X., & Wang, G. (2025). Uncertainty-Aware Laser Stripe Segmentation with Non-Local Mechanisms for Welding Robots. ***IEEE Transactions on Instrumentation and Measurement***. [[Link]](https://ieeexplore.ieee.org/abstract/document/10909245/)
 - Hu, D., **Chen, S.**, Yang, H., & Wang, G. (2023). Query-guided Support Prototypes for Few-shot 3D Indoor Segmentation. ***IEEE Transactions on Circuits and Systems for Video Technology***. [[Link]](https://ieeexplore.ieee.org/abstract/document/10295521)
+
+
+# Services
+
+- Reviewer of TMECH, TCSVT, RA-L, RAS, ICRA, IROS, AAAI, SMCA, Neurocomputing
